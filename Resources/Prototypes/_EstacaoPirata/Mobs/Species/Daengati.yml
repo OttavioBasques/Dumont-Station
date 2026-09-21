@@ -55,7 +55,7 @@
   - type: Body
     prototype: Daengati
   - type: TypingIndicator
-    proto: daengati #Mudar apos adicionar indicador de escrita de daengati # Gabystation | Variante baseada no indicador de oni.
+    proto: daengati
   - type: Tag
     tags:
     - CanPilot
