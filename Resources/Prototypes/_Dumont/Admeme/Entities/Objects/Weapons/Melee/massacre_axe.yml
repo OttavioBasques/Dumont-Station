@@ -7,7 +7,9 @@
   components:
   - type: MeleeWeapon
     heavyStaminaCost: 5
-    wideAnimationRotation: 160
+    animationRotation: 180
+    wideAnimationRotation: 180
+    angle: 90
     attackRate: 1
     damage:
       types:
@@ -15,6 +17,8 @@
         Heat: 10
         Structural: 50
       armorPenetration: 0.5
+    soundHit:
+      path: /Audio/_Dumont/Misc/heavy_slash.ogg
   - type: IncreaseDamageOnWield
     damage:
       types:
