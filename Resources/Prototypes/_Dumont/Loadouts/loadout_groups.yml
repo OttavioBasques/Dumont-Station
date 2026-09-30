@@ -1771,7 +1771,7 @@
 
   # Captain
 
-  - type: loadoutGroup
+- type: loadoutGroup
   id: CaptainSabreSkins
   name: loadout-group-captain-sabre-skins
   minLimit: 0
