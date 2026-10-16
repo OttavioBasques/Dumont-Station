@@ -3,9 +3,9 @@
   name: chat-emote-name-growl
   category: Vocal
   icon: _Goobstation/Interface/Emotes/scream.png
-  tags:
-  - DaengatiEmotes
   whitelist:
+    tags:
+    - DaengatiEmotes
     components:
     - Vocal
   blacklist:
