@@ -13,8 +13,5 @@
     - SiliconEmotes
   chatMessages: ["chat-emote-msg-growl"]
   chatTriggers:
-   - growl
-   - growls
-   - growled
    - rosna
    - rosnar
